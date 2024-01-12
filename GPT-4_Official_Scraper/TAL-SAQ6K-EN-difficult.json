@@ -1,0 +1,2212 @@
+[
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "14305f680d27486a905dd8dc12e89924",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "If $$p$$ and $$p+107$$ are both prime numbers, find the value of $$p$$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ddc124ebdf394e27ba7e0a2f7f5a5377",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "What is the value of $$\\frac{1^{2}+2^{2}}{1\\times 2}+ \\frac{2^{2}+3^{2}}{2 \\times 3}+ \\frac{3^{2}+4^{2}}{3 \\times 4}+ \\ldots + \\frac{2007^{2}+2008^{2}}{2007 \\times 2008}$$? When it is rounded to the nearest whole number? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "473c8349035b4eefb0b4f9931022b96c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate: $$1^{3}+3^{3}+5^{3}+\\cdots+13^{3}$$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Operations through Formulas->1³+2³+3³+......+n³=(1+2+3+......+n)²"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "24e6a79cbcf3471baf6993ecdd2917eb",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "David had a total of $$40$$ notes. The notes were either $$$2$$ or $$$10$$ notes. After he spent $$40$$\\% of the $$$10$$ notes and $$25$$\\% of the $$$2$$ notes on a gift, he had~$\\tfrac{4}{5}$~as many $$$10$$ notes as $$$2$$ notes left. How much did the gift cost? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "9fad48b32dd54f7d8f6c57a2e1c1c739",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $13$ oranges to $3$ kids, to make sure each of them gets at least two oranges? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "48f99615d7554b569d6065aa09ad29fe",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The sum of two numbers is 11.63. When adding the numbers together, Oliver ac\u0002cidentally shifted the decimal point in one of the numbers one position to the left. Oliver got an answer of 5.87 instead. What is one hundred times the difference between the two original numbers? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7f06cc0235094faaa81a0a2fb9cab606",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam Sam and Peter had some stickers in the ratio 7 : 5. Sam and Peter each gave 20\\% of their stivkers to John. As a result, John's stickers increased by 80\\%. If Sam had 20 stickers more than John in the end, how many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "707f06cacc044e1d85aef697dea2c32f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Percentage Single Base}  65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "19d110feae03410cb8fbd2510aacfe2a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "P can complete a job in 12 days working 8 hours a day. Q can complete the same job in 8 days working 10 hours a day. If both P and Q work together, working 8 hours a day, how many days can they complete the job?（⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "250641e98bbf4da6a3ad1c67bad85305",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "af4a495ebf5c4ddcacec30bac10e45e8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$A$$ has fewer than $$40$$ cookies. If $$A$$ puts $$6$$ cookies into each box, she will have $$5$$ cookies left. If $$A$$ puts $$5$$ cookies into each box, she will be short of $$3$$ cookies. How many cookies does $$A$$ have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ee76cce07a1c443dab8df84aab143d24",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Expand and solve the equation:~$5\\left( 6c-1\\right)=-35$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Basic Concepts of Equation->Linear Equations with one Variable->Equations with Whole Number Coefficient",
+            "Overseas Competition->Knowledge Point->Calculation Modules->Negative Numbers"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "031f3635142c4421b05d4b2b576e071a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "（AMC 2016 Question \\#27）  In a family with two sons and two daughters, the sum of the children\\textquotesingle s ages is 55.  The two sons were born three years apart, and the two daughters were born two years apart. The younger son is twice the age of the older daughter.  How old is the youngest child? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a16e80d24e034bddb8280d950f5a08b1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Miss Jenny is separating some candies for class A and class B. If each student in class A gets $4$ candies, $20$ more candies are needed. If each student in class B can get $6$ candies, there will be $16$ candies left. It is known that the number of students in class A is twice of class B. How many candies does Miss Jenny have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Distribution Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ea360eacf521407f98ff8b5280ab0671",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A textbook has $$510$$ pages and it is numbered from $1$ to $$510$$. The digit $5$ is printed~\\uline{~~~~~~~~~~}~times in numbering this textbook. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Page Number Problem"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e147bf0d408e4c8a9fccf6228377aabc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "When Grey was born, his father was $$30$$ years old. This year, the age of Grey\\textquotesingle s father is three times that of Grey\\textquotesingle s age. Grey\\textquotesingle s father is~\\uline{~~~~~~~~~~}~years old this year. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems->Differences and Multiples in Age Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2927ab094a1741819a4e2a25ebabc6e7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "65\\%~ ~65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d1ef65d2af0d48fca0d26f7460c255c2",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Nora spent $$70 \\%$$ of her money on a bag and $$\\frac{3}{8}$$ of the remainder on a purse.  What percentage of her money did she spend on the purse? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Properties and Applications of Number Bases->Mixed Operations of Number Bases",
+            "Overseas In-curriculum->Knowledge Point->Operations of Numbers ->Word Problems Involving Fractions and Percentages->Finding the Percentage Given a Part and a Whole"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "60143fac73a641d4afc2cffe6b15a9e9",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In the ancient legend, there are four magical birds: the two-tailed bird (one head and two tails), the three-tailed bird (one head and 3 tails), the six-tailed bird (one head and six tails) and the eight-tailed bird (two heads and eight tails). The number of two-talied birds is 5 more than twice as many as the number of eight-tailed birds. The number of three-tailed birds is 2 more than half the number of six-talied bird. Given that the total number of their tails is 2 less than four times as many as the total number of their heads, and the difference between the total number of their heads and their tails is 241. How many three-tailed birds are there? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5faf0bb3bd074227a53f6f2ca2666324",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The whole numbers from $$1$$ to $$2016$$ inclusive are written on a blackboard. Moritz underlines all the multiples of two in red, all the multiples of three in blue and all the multiples of four in green. How many numbers does Moritz underline exactly twice? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Factors and Multiples->Basic Concepts of Factors and Multiples"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2df9daedfb014f1a9790c3fcebc2c6cc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $20$ pens to $6$ kids, to make sure each of them gets at least one pen? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a51a939a7af045ed9ba206d87ac10cdc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A year is called a lucky year if the sum of its digits is 18. For example, 1917 is a lucky year since 1+9+1+7=18. How many lucky years are there between 2018 and 2108? （⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1e6694bd51114d55895dbe80e548b123",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$4$$ individuals pass the ball to each other and they pass it to others immediately when they catch the ball, starting from $$A$$ as the first pass, the number of different methods that after $$3$$ passes the ball returns to $$A$$ is~\\uline{~~~~~~~~~~}~. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8c7bad2823b64ce9bd000eca653f9f98",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "At a party, every $$4$$th guest gets a face mask and every $$10$$th guest gets a mug. What is the position of the first guest that will get both a face mask and a mug? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Factors and Multiples"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ab364c81a2864910ac73de45139fb81c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There was an equal number of boys and girls at an exhibition. After~$\\tfrac{3}{5}$~of the boys and $$42$$ girls left the exhibition, there were $$12$$ more boys than girls at the exhibition. How many students were there at the exhibition at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "c60c26e3a9984f1fb74edb0acff647db",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A group of children visited the Botanic Gardens one morning. The ratio of the number of boys to the number of girls was $$3 : 2$$. Later in the afternoon, $$12$$ boys and $$12$$ girls joined the group. The new ratio became $$19 : 14$$. Find the total number of children in the Botanic Gardens that afternoon.~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6db54abfbef4439db3f32fb63eccef7f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "What is the value of $P+Q+R$ in the following multiplication? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Number Puzzles->Number Puzzles (vertical forms)->Multiplication Tiling Puzzles"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b2e74fd3787345abaed2bffc05eda905",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Elias had $$5$$ times as many stickers as Aileen. After Elias gave away $$88$$ stickers and Aileen lost $$8$$ stickers, they had the same number of stickers left. How many stickers did each of them have in the end? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ed32aedbb2a34499a71cf190747aeb19",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Student $$A$$ and Student $$B$$ both had a mathematic test. Student $$B$$ told student $$A$$ \"If you gave me $$24$$ points, my result would be $$2$$ points less than yours.\" Student A told student B \"if you gave me $$25$$ points, then my result would be $$5$$ times that of yours.\" What is the score Student $$A$$ got on the mathematic test? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Questions Involving Sum, Difference and Multiples->Problems of Difference and Multiple"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7a03810f71064f1b8a00a0c741b7d68e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "On his $14$th birthday, Brian\\textquotesingle s father was $41$. Brian noticed that his age was the reverse of his father\\textquotesingle s age. How old will Brian be the next time his age is the reverse of his father\\textquotesingle s age? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Applying the Principle of Place Value->Questions Involving Applying Place Value Principle",
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems->Basic Relationships in Age Problems->Difference of Ages"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "020a47d927424600b54866be0f9e7377",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A school library had $$3900$$ books. The ratio of the number of Chinese, Malay and English books is $$4 : 3 : 6$$. When the school bought $$510$$ new books, the number of Chinese books increased by $$20$$\\% and the number of Malay books increased by $$10$$\\%. Find the percentage increase in the number of English books. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Percentage Calculation"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7e469a60ae594c1eb1c906000dd9e1b3",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Woody organised a quiz night in the toy room. He asked $25$ questions.  For each correct answer you gained $4$ points.  For each incorrect answer you lost $2$ points.  For each question you did not attempt you scored $0$ point.  Rex answered all but one of the questions and got a score of $66$ points.  How many correct answers did he have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Hypothesis->Deducting Marks"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d1a297dde50e43a99002f159a8a8b64a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "What is the value of $$\\frac{1^{2}+2^{2}}{1\\times 2}+ \\frac{2^{2}+3^{2}}{2 \\times 3}+ \\frac{3^{2}+4^{2}}{3 \\times 4}+ \\ldots + \\frac{2007^{2}+2008^{2}}{2007 \\times 2008}$$ when it is rounded to the nearest whole number? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3d7b8c3bc3f54a2dbce551c74529dd16",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "David had a total of $$38$$ notes. The notes are either $$$2$$ notes or $$$10$$ notes. After he spent $$80$$\\% of the $$$10$$ notes and $$75$$\\% of the $$$2$$ notes on a fan, he was left with thrice as many $$$10$$ notes as $$$2$$ notes. How much did the fan cost? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "9c2c49e5d3134ddeb8fb6b3c0c42f5cd",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A book has $89$ pages, but the page numbers are printed incorrectly. Every third page number has been omitted, so that the pages are numbered $1,2,4,5,7,8,\\cdots $ and so on. What is the number on the last printed page? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Periodic Problems->Periodic Problems of Basic Permutation"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "94bb6ae56dbd4a98a0fbeaa59c7d8691",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Miss Jenny is separating some candies for class A and class B. If each student in class A gets $4$ candies, $20$ more candies are needed. If each student in class B can get $6$ candies, there will be $16$ candies left. It is known that the number of students in class A is twice of class B. How many candies does Miss Jenny have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Distribution Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3a2ed089aaaf41639e7c8cf3a2c8a734",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "I have five children and want to place them in a line for a photograph. However, Hugh refuses to stand anywhere in between Louise and Richard. How many ways are there to place the children in a line and still keep Hugh happy? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cd9d85bed1d74e6cb214e001f0a094e3",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Rasidah had $$$48$$ less than Chai Seng. Rasidah spent~$\\tfrac{3}{5}$~of her money and Chai Seng spent~$\\tfrac{6}{7}$~of his money. In the end, Chai Seng had~$\\tfrac{1}{2}$~as much money left as Rasidah. Find the amount of money Rasidah had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a137655c79064ec7a5bd8abbf2cc059d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate: $$\\frac{100}{97}+\\frac{100\\times 99}{97\\times 96}+\\frac{100\\times 99\\times 98}{97\\times 96\\times 95}+\\cdots +\\frac{100\\times 99\\times 98\\times \\cdots \\times 5\\times 4}{97\\times 96\\times 95\\times \\cdots \\times 2\\times 1}=$$~\\uline{~~~~~~~~~~}~. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b02ecddb14a14da0b461c2caa96532c3",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Ema had $$$360$$ less than Keng Wee. Ema spent~$\\tfrac{1}{4}$~of her money and Keng Wee spent~$\\tfrac{4}{7}$~of his money. In the end, Keng Wee and Ema had the same amount of money left. Find the amount of money Keng Wee had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f0b605621a9e488c833ca38ce574f364",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate:  $$18+17-16-15+14+13-12-11=$$ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Applying Addition and Subtraction"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "c94ef69eb1ea40b382fada9c92ec874e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "John had $\\frac{5}{13}$ of the amount of Jessie\\textquotesingle s money. Jessie then transferred $$ $600$$ to John. As a result, John\\textquotesingle s money became $50 \\%$ of the amount of Jessie\\textquotesingle s money. How much money did they have in total? $ $$~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f96223372da84682a7c29924dbb659bb",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A box could contain $$8$$ cookies. There were $$298$$ cookies. How many boxes were needed? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "36563a3f9be64d47a2d4bd411b572cae",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "On the first day of an amusement park\\textquotesingle s opening, the number of male visitors was $450$ more than the number of female visitors. On the second day, the number of female visitors increased by $15 \\%$ but the number of male visitors decreased by $18 \\%$. The total number of visitors for the second day was $1354$. How many visitors were there on the first day? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "fa72055fad084ab58ad10b1fda0c68de",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "On the first day of an amusement park's opening, the number of make visitors was 450 more than the number of female visitors. On the second day, the number of female visitors increased by 15\\% but the number of make visitors decreased by 18\\%. The total number of visitors for the second day was 1354. How many make visitors were there on the first day? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "05e8386eec1a4686bcceefeeec0da532",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate:  $54+52-50+48-46+\\cdots+4-2=$ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Grouping Method->Flexible Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d0e55b24b2d94a99a067394ed0971714",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Mr Krishnan spent $$$740$$ of his monthly salary on a DVD player and~$\\tfrac{3}{4}$~of the remaining money on a television set. If he had~$\\tfrac{1}{5}$~of his salary left, how much was his salary for the month? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6dff7252335c45c0a2fdec728a95565a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A rectangular piece of white paper ~measures 1.36m by 0.8m. We need to cut it into squares of the same size and make the square area as large as possible, and there is no white paper left at the end. How many squares can we cut?（⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5b9cd44e2a8d46b2b9f5c8533ec96089",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a streaming exercise, students were asked to choose between two subjects, which was Grade $$A$$ Math or Grade $$B$$ Math. $$80$$\\% of the students chose Grade $$A$$ Math, $$35$$\\% of the students chose Grade $$B$$ Math and $$10$$\\% of the students chose neither subjects. Given that a total of $$75$$ students actually chose both Grade $$A$$ and Grade $$B$$ Math, how many students were involved in the streaming exercise? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Finding the Base"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "998af0079c4247a1989e0807c81a7b0b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The teacher wrote the numbers $$1～13$$ on $$13$$ separate pieces of paper. She randomly picked $$9$$ of them and stuck one on each of the foreheads of $$9$$ students. The students are able to see the numbers of the other $$8$$ students but are unable to look at their own number.  Teacher: Students that know the number of different factors your number has, please put up your hand.  *Two students put up their hands.*  Alice: Although I do not know my own number, but I do know that it is an odd number.  May: My number is smaller than Alice\\textquotesingle s by $$2$$ and bigger than Mark\\textquotesingle s by $$1$$.  What is the product of the four numbers that were not picked?~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Applying Addition and Subtraction->Simple Word Problems Involving Comparing and Ordering"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1820577397204c509b1907b2ea4c2a5f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There was an equal number of boys and girls at a gathering at first. After $$60$$ boys and $$12$$ girls left the gathering, there were twice as many girls as boys who remained at the gathering. Find the number of boys at the gathering at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f83ac99f77f44f1eb0edef1268dfc574",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A box is projected up a long ramp (incline angle with the horizontal = 37°) with an initial speed of 10 m/s. If the surface of the ramp is very smooth (essentially frictionless), how high up the ramp will the box go? What distance along the ramp will it slide?                ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Negative Numbers->Operations on Negative numbers"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1ddfd41822fc4ff5909fb0c086a9e1cc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Miss Jenny is separating some candies for class A and class B. If each student in class A get $4$ candies, $20$ more candies are needed. If each student in class B can get $6$ candies, there will be $16$ candies left. It is known that the number of students in class A is twice of class B. How many candies does Miss Jenny havve? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Distribution Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6d1e50acecb5443699ff1409bbab9ab1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Woody participated in a math skills competition. There are $25$ questions in total.  For each correct answer he gained $4$ points.  For each incorrect answer he lost $2$ points.  For each question he did not attempt, he scores $0$ point.  Woody answered all but one of the questions and got a score of $66$ points.  How many correct answers did he have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Hypothesis->Deducting Marks"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "973a7aa6ad0b475ca38055bf318f176b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam had 40 stickers more than Peter. Sam gave 20\\% of his stickers to Peter. In return, Peter gave 25\\% of his stickers to Sam. In the end, Sam had 96 stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b89dd263e0b74d39b39fc4d3fdbfb49e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are in total $$181$$ digit \"$$9$$\"s in all of the page numbers of a novel, how many pages are there in the novel? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Page Number Problem"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4dbef50f0cc443289ac166137fd5b410",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $19$ books to $4$ kids, to make sure each of them gets at least one book? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e3aa5800105743d5b2435db12b158401",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Kiera spent $$ $740$$ of her monthly salary on a new phone and $75 \\%$ of the remaining money on her rent. If she had~$\\dfrac{1}{5}$~of her salary left, how much was her salary for the month? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "757e6ca91df84091a26bd18fc1b7fa2a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate：$$\\frac{100}{97}+\\frac{100\\times 99}{97\\times 96}+\\frac{100\\times 99\\times 98}{97\\times 96\\times 95}+\\cdots +\\frac{100\\times 99\\times 98\\times \\cdots \\times 5\\times 4}{97\\times 96\\times 95\\times \\cdots \\times 2\\times 1}$$ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f58f700fac024611a683956a1768c0ec",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A 500 kg car travels 20 m/s due north. It hits a 500 kg car traveling due west at 30 m/s. The cars lock bumpers and stick together. What is the velocity the instant after impact?                ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Distribution Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3b1b4add028148159a147e645f93b19a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "What is the maximum number of parts that a plane can be divided by $$5$$ circles and $$1$$ line? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "adde032b1234481e91098235d742001a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are four entrances to a high speed rail station. Joe, Mike and Tina are going to enter the station to take the high speed rail. Joe and Mike cannot join the same entrance. The order in which the three people enter the station is uncertain. How many different ways are there for them to enter the station? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5d63dffe5e5b4c6195a4e20ccdebb0f0",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$Amelia$$ had $$160$$ cookies and $$Bala$$ had $$320$$ more cookies than $$Daniel$$. $$Bala$$ had~$\\tfrac{1}{2}$~as many cookies as $$Amelia$$, $$Carl$$ and $$Daniel$$. $$Carl$$ had~$\\tfrac{3}{4}$~as many cookies as $$Amelia$$, $$Bala$$ and $$Daniel$$. They had $$6230$$ cookies in total. How many cookies did $$Daniel$$ have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e9f47ee528114383ba4f6be4529ce4b8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate: $$4^{2}+8^{2}+12^{2}+\\cdots+124^{2}$$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Operations through Formulas->1³+2³+3³+......+n³=(1+2+3+......+n)²"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "210032ce53ff4939827463e6a45cdfea",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "65\\%~ ~65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e705de293fcb400b9a1dfb656dfa1166",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$A$$ had some cookies. If $$A$$ packed $$8$$ cookies into each box, she would not have any cookies left. If $$A$$ packed $$9$$ cookies into each box, she would have $$1$$ cookie left. What was the least number of cookies that $$A$$ had? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0c251d28e5f34b3790b5b39adc9a140b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "David spent $$$75$$ of his money on a number of CDs. He spent~$\\tfrac{1}{4}$~of the remaining money on a number of batteries. Given that he was left with~$\\tfrac{1}{3}$~of the original sum of money, how much money did David have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b440fab9ebc4484292e18843c0eaa0f9",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are four entrances to a high speed railway station. Joe, Mike and Tina are going to enter the station to take the high speed railway. Joe and Mike cannot join the same entrance. The order in which the three people enter the station is uncertain. How many different ways are there for them to enter the station? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e5c1b794ac8648ec850e93b55dab48de",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Rasidah had $$$48$$ less than Chai Seng. Rasidah spent~$\\tfrac{3}{5}$~of her money and Chai Seng spent~$\\tfrac{6}{7}$~of his money. In the end, Chai Seng had~$\\tfrac{1}{2}$~as much money left as Rasidah. Find the amount of money Rasidah had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cc135b9291974bc8a3f809cc912e685e",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "Students in Grade 6 lined up for sports. If there are 3 students in a row, 2 students remain. If there are 7 students in a row, 6 students remain. If there are 11 students in a row, 10 students remain. What is the minimum number of students in Grade 6?（⭐⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "de23539233a540d8a78444b87207ab4f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$A$$ had $$9$$ big boxes of cookies. Each big box had $$660$$ cookies. $$A$$ packed the cookies into small boxes. Each small box could contain $$600$$ cookies. How many small boxes were needed? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1b7cc025e9e347ce80741fb93834ea0c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There is a planet in the universe that uses Base 3 notation. When Mr. Lv moved to this planet and changed his ID card, he had to change his age from Base 10 to Base 3 notation. Mr. Lv found that, as long as the original Base 10 age added a \"0 \" at the end, is the age in Base 3. How old is Mr. Lv? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5da1575e00d448078124140f108f6b1b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Segments $\\overline{AB}$, $\\overline{AC}$ and $\\overline{AD}$ are edges of a cube and $\\overline{AG}$ is a diagonal through the center of the cube. Point $P$ satisfies $PB=60\\sqrt{10}$, $PC=60\\sqrt{5}$, $PD=120\\sqrt{2}$ and $PG=36\\sqrt{7}$. What is $PA$? (2021 AIME I Problem 6) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "83d292a05ff04677a8c5ed5ab8c0c835",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate：$$\\frac{3\\dfrac{1}{3}\\times 1.9+19.5\\div 4\\dfrac{1}{2}}{\\dfrac{62}{75}-0.16}\\div \\frac{3.5+4\\dfrac{2}{3}+2\\dfrac{2}{15}}{0.5\\times \\left( 1\\dfrac{1}{20}+4.1 \\right)}$$． ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions->Operations of Fractions->Four Operations of Fractions and Decimals"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2770667d43574021b710d6ea74fb5929",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Tabitha writes down a four-digit number $$N$$.  She then rubs out one of the digits and creates a new three-digit number, $$M$$, with the three digits that are left (in the same order as before).  The difference between $$N$$ and $$M$$ is 2021.  What is Tabitha\\textquotesingle s original number $$N$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Number Puzzles->Number Puzzles (horizontal forms)"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e55659b67fec48ffadc5d661886b3f84",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A group of $$200$$ students were interviewed to find out whether they enjoyed swimming, jogging, swimming and jogging, or neither of the two sports. $$82$$\\% of the students indicated that they liked swimming, $$54$$\\% of them indicated that they liked jogging and $$16$$\\% indicated that they did not like either of the two sports. How many students enjoyed both swimming and jogging? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Finding the Base"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "df34fda134ee46a8ac94860f5ae12f9f",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "A can do a job in 15 days while B can do it in 10 days. They work on it together for 4 days and then worker A has to take off to deal with a family emergency. In how many days can B finish the remaining job?（⭐⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0d471b7547134c0f9e37864e9573cf56",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The largest odd number that cannot be split into three different composite numbers is~\\uline{~~~~~~~~~~}~. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime and Composite Numbers"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "9d5fcd691dcd4877acf240f16e7063cb",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a class gathering of $$39$$ students,~$\\tfrac{1}{4}$~of the boys is equal to~$\\tfrac{2}{5}$~of the girls. How many more boys than girls are there at the gathering? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f8f2a1e9445b4dcda537fd994f74f84b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Jeremy had a total of $$116$$ notes that were either $$$5$$ or $$$10$$ notes. After he spent $$60$$\\% of the $$$10$$ notes and $$25$$\\% of the $$$5$$ notes on a bag, he was left with~$\\tfrac{4}{7}$~as many $$$10$$ notes as $$$5$$ notes. How much did the bag cost? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f11cc314015c4356be0ae68d5c3ced7c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The ratio of Don\\textquotesingle s stickers to Ben\\textquotesingle s stickers was $2 : 3$. After Don\\textquotesingle s bought another $10$ stickers and Ben lost $5$ stickers, the ratio became $6 : 7$. Find the number of stickers Don had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Ratios and Proportions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "c095aeb90ada41a7b2026c6d00a0a9a5",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$21\\dfrac{21}{286}\\div 6\\dfrac{647}{2530}\\times 1\\dfrac{1370}{2829}=$$~\\uline{~~~~~~~~~~}~． ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "55d9d0163f3a466c8356b0f2120c7887",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There were a total of $$105$$ apples and pears at first. After~$\\tfrac{1}{3}$~of the apples and~$\\tfrac{2}{5}$~of the pears were sold, there were~$\\tfrac{5}{6}$~as many apples as pears left. Find the total number of apples and pears sold. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "859d0b8b48294702afaa6ae358e1b4b8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In the past $$1000$$ days, the villa had a total of $$2$$ theft that occurred. The owner of the villa has a dog and the dog would bark $$3$$ times every week at night. The probability of the dog barking when a thief is around $$0.9$$. According to the given informations, what is the probability of the dog barking during the occurrence of the theft? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Statistics and Probability->Questions Involving Probability"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "525efcf75fb844b7b5bfc88c0478887d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a school hall, there were $$65$$ fewer boys than girls. After~$\\tfrac{2}{5}$~of the boys and~$\\tfrac{3}{7}$~of the girls left the hall for recess, there were equal number of boys and girls left in the hall. Find the total number of students left in the hall at the end. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1a6a4bcf3e384d149434758e9e9ee954",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam and Peter had some stickers in the ratio 7 : 5. Sam and Peter each gave 20\\% of their stivkers to John. As a result, John's stickers increased by 80\\%. If Sam had 20 stickers more than John in the end, how many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7463bf137d564fbabe4d8eb8c8c7ee34",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "David had a total of $$72$$ notes. The notes were either $$$2$$ notes or $$$10$$ notes. After he spent $$90$$\\% of the $$$10$$ notes and $$75$$\\% of the $$$2$$ notes on a gift, he was left with twice as many $$$10$$ notes as $$$2$$ notes. How much did the gift cost? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4f9c4a2d52664632815cca87ff3639cd",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are $1007$ parterres in a straight line. A sprinkler must be installed in the middle of each two parterres. What is the minimum number of sprinklers needed to be installed at least? (ignoring the size of~parterres) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7b38d775bba24657ba681d25822af411",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Percentage Double Base}  Marry had~$\\dfrac{7}{5}$~as many stickers as Alexis.~Marry and Alexis each gave 20\\% of their stickers to Charlotte. As a result, Charlotte\\textquotesingle s stickers increased by 80\\%. If Mary had 20 stickers more than Charlotte in the end, how many stickers did Alexis have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "39ac38c32dc74df58ea6b0d18c06ad13",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In any permutation of $$1$$, $$2$$, $$3$$,~ $$\\cdots$$ , $$7$$, $$8$$, how many permutations are there such that any two adjacent numbers are coprime? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1db0cce1e16144579673d8e8a9fc0654",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "At a graduation ceremony, there were $$30$$ less boys than girls. After~$\\tfrac{3}{5}$~of the boys and~$\\tfrac{5}{8}$~of the girls left the hall for recess, there was an equal number of boys and girls who remained behind. Find the number of boys who were present at the graduation ceremony at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f1a2fc61d2954912aabcdce67bec8fd1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$Sam$$ and $$Tim$$ had $$1170$$ cookies. After $$Sam$$ ate~$\\tfrac{1}{4}$~of her cookie and $$Tim$$ bought~$\\tfrac{1}{5}$~more cookies, $$Sam$$ had $$663$$ fewer cookies than $$Tim$$. How many cookies did $$Sam$$ eat? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "205d168df66c45e39d3bf4f711e8f6fc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Let $A=a_0+a_1+a_2+a_3+a_4+a_5+a_6 = 1$, where $a_0,a_1,a_2,a_3,a_4,a_5,a_6$ are real numbers. The new operation $\\Delta$ is defined as $x\\Delta y = x-y$. If:  $$A \\Delta a_1 = \\frac12$$  $$A \\Delta a_2 = \\frac23$$  $$A \\Delta a_3 = \\frac78$$  $$A \\Delta a_4 = \\frac{29}{30}$$  $$A \\Delta a_5 = \\frac{139}{144}$$  $$A \\Delta a_6 = \\frac{839}{840}$$  If $a_0 = \\frac{m}{n}$ in its simplest form, find the value of $m+n$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Operations with New Definition"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "955addf2cd5343a2baa0cdc99bc64d70",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Old Clarrie has three dogs. The oldest is Bob, next comes Rex and Fido is the youngest. Fido is 10 years younger than Bob, and none of the dogs are the same age. When Clarrie adds their ages together they come to 28 years. When Clarrie multiplies their ages together, he gets a number. What is the smallest that this number could be? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Number Puzzles->Number Puzzles (sign of operations)->Obtaining Maximum/Minimum Values "
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2a5bc09f9e2444d0ad16b16b429e0669",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The sum of Lora\\textquotesingle s age and her mother\\textquotesingle s age is 44. Her mother\\textquotesingle s age is 3 times Lora\\textquotesingle s age now. How old is Lora now?  Lora is~\\uline{~~~~~~~~~~}~years old. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f2d1624bd6914f419871977e97929aae",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$\\tfrac{3}{4}$~of Chelsia\\textquotesingle s money is the same as~$\\tfrac{5}{6}$~of Brian\\textquotesingle s money. If Chelsia has $$$24$$ more than Brian, how much money do Chelsia and Brian have altogether? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6f08803f689f4c72bcdea50d636ea987",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate：$$\\dfrac{\\dfrac{1}{1\\times 2}+\\dfrac{1}{3\\times 4}+\\dfrac{1}{5\\times 6}+\\cdots +\\dfrac{1}{19\\times 20}}{\\dfrac{1}{11\\times 20}+\\dfrac{1}{12\\times 19}+\\dfrac{1}{13\\times 18}+\\cdots +\\dfrac{1}{15\\times 16}}$$． ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "98c9966f7fd249d7beb63974bfe3742c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "On his $14$th birthday, Brian\\textquotesingle s father was $41$. Brian noticed that his age was the reverse of his father\\textquotesingle s age. How old will Brian be the next time his age is the reverse of his father\\textquotesingle s age? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Applying the Principle of Place Value->Questions Involving Applying Place Value Principle",
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems->Basic Relationships in Age Problems->Difference of Ages"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "c6d0a3426bdd48c09f8e5ed6be864293",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam Sam had 40 stickers more than Peter. Sam gave 20\\% of his stickers to Peter. In return, Peter gave 25\\% of his stickers to Sam. In the end, Sam had 96 stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1f89b3dca16b41f3af194d672af50912",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Alyson, Clara and Joyce were each given a piece of string of equal length. Alyson cut hers into smaller $$2\\text{m}$$ pieces, Clara cut hers into smaller $$3\\text{m}$$ pieces, and Joyce cut hers into smaller $$5\\text{m}$$ pieces. If there were no remainder in each case, find the shortest possible length of string given to each of them. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Factors and Multiples"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "39ff6ce753bc44909a9a09937c88d468",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Marry and Alexis had some stickers in the ratio 7 : 5. Marry and Alexis each gave 20\\% of their stickers to Charlotte. As a result, Charlotte\\textquotesingle s stickers increased by 80\\%. If Mary had 20 stickers more than Charlotte in the end, how many stickers did Alexis have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a543d8cd5bcf46c784fc4a1226cbbd55",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "At an art exhibition, $$37 \\%$$ of the visitors were men and the rest were women and children in the ratio of $$4 : 5$$. If there are $$12$$ more men than children, how many women were at the art exhibition? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ffe4e2fccc06432695daf3045845a872",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Samuel spent~$\\tfrac{1}{6}$~of his money and an additional $$$5$$ on a DVD. He then spent~$\\tfrac{2}{5}$~of his remaining money and an additional $$$12$$ on a number of magazines. If he had $$$24$$ left, how much money did he have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2f184eae91df42e18de5b645882a1cc1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$\\tfrac{1}{6}$~of $$Tim\\textquotesingle s$$ cookies were equal to~$\\tfrac{3}{8}$~of $$Tyler\\textquotesingle s$$ cookies. After $$Tyler$$ sold $$96$$ cookies, $$Tim$$ had $$9$$ times as many cookies as $$Tyler$$. How many cookies were there at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f4a9a527d7144792b53639888c6da554",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sally had some cupcakes. She had $72$ more chocolate cupcakes than vanilla cupcakes. She had $36$ lesser blueberry cupcakes than vanilla cupcakes. After selling $\\dfrac{1}{6}$~of the chocolate cupcakes, $\\dfrac{2}{3}$~of the vanilla cupcakes and $\\dfrac{7}{9}$~of the blueberry cupcakes, Sally is left with $427$ cupcakes altogether. How many chocolate cupcakes did Sally sell? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "620fcfd4b5dc4851a21f52802f067616",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A box contains some red marbles and white marbles.  The ratio of red to white marbles in this box is $3:2$.  Pip puts some red balls into the box, and the ratio of red to white balls becomes $5:3$.  Then Bud puts some white balls into the box, and the ratio of red to white balls becomes $5:4$.  Given that the number of balls put by Bud is $100$ more than the number of balls put by Pip.  How many white balls are there in the box at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Ratios and Proportions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cc66cd3f11294d1984b5cf049794398d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Somi gave $80 \\%$ of her chocolates to her students and $\\frac{2}{5}$ of the remaining chocolates to her children. If she had $$108$$ chocolates left, how many chocolates did she have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "58827db30bfe41e3aa8887dbbf840403",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Clarice is reading a magazine. The number of pages she has read to the number of pages she has not read is $$1 : 5$$. If she reads another $$80$$ pages, the number of pages she has read would become $$70 \\%$$ of the total number of pages. How many pages are there in the magazine?~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "41e9b6cd168c41fd92de334d68528b9e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "（AMC 2021 Question \\#30）  e sum of two numbers is 11.63. When adding the numbers together, Oliver accidentally shifted the decimal point in one of the numbers one position to the left. Oliver got an answer of 5.87 instead.  What is one hundred times the difference between the two original numbers? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f7ea1bce2ab643be811669ebb19981e8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$2023^{\\text{rd}}$$ integer is divided by $$3$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems->Questions involving Divisions with Remainders"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b6d78733f8874f2bbfe35bd591c415ac",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The number 840 is the 3-digit number with the most factors. How many factors does it have？ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Factors and Multiples->Theorem of the Number of Factors of a Number"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "bab761c62984431592b8726b89f2c00c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam had $40$ stickers more than Peter. Sam gave $20 \\%$ of his stickers to Peter. In return, Peter gave $25 \\%$ of his stickers to Sam. In the end, Sam has $96$ stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f15fa89c42d94b389e9ef9de02718b7a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The ratio of Sally\\textquotesingle s age to Gillian\\textquotesingle s age is $$2 : 7$$. In $$15$$ years\\textquotesingle{} time, the ratio of Sally\\textquotesingle s age to Gillian\\textquotesingle s age will become $$1 : 2$$. What is Sally\\textquotesingle s age now?~\\uline{~~~~~~~~~~}~years old. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3443aaa6a82a4aa1acae9f85d2a28ffe",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Jolie baked some cookies. She threw away~$\\dfrac{3}{5}$~of the cookies as they were burnt, and she sold $75 \\%$ of the remaining cookies. Given that the number of cookies she burnt was $$42$$ more than the number of cookies she sold, how many cookies did Jolie bake at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "28b3283e4adb46b1981d2f77bbce5dc3",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a school hall, there were $$65$$ fewer boys than girls. After~$\\tfrac{2}{5}$~of the boys and~$\\tfrac{3}{7}$~of the girls left the hall for recess, there were equal number of boys and girls that remained in the hall. Find the total number of students that remained in the hall in the end. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0c03095444bb44a4b57d684dd17a77c7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are $6$ people sitting around an eight-seater circular table. How many different orders are there for them to sit? (If we can get the same order after rotating the table, then we regard the two orders as the same one.) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "9613eedf0f0948dcb5413f496404e450",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There was an equal number of boys and girls in a class at first. Halfway through a lesson, another $$12$$ boys came into the class and $$8$$ girls left the class. In the end, there were twice as many boys as girls in the class. How many students were there in the class at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "74c598a697fa4036ba52acb5c3dae9a8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sally had some cupcakes. She had 72 more chocolate cupcakes than vanilla cupcakes. She had 36 lesser blueberry cupcakes than vanilla cupcakes. After selling $\\dfrac{1}{6}$~of the chocolate cupcakes, $\\dfrac{2}{3}$~of the vanilla cupcakes and $\\dfrac{7}{9}$~of the blueberry cupcakes. Sally had 427 cupcakes left altogether. How many chocolate cupcakes did Sally sell? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "c95c7f2647524a1b84a553fdaf384550",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "（AMC 2018 Question \\#28）  I wrote the counting numbers joined together:  1234567891011121314151617$\\ldots$  Which of the counting numbers was I writing when the 100th zero was written? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a4c428257cff4445a4d9df7423135eaf",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Jeremy has the same size toy cars in his box in which 5 are red, 9 are blue and 4 are white. How many cars does he need to pick from the box without looking to e sure he will get 3 toy cars of the same colour? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Statistics and Probability->Questions Involving Probability->Typical Probability Problems->Picking Balls Randomly"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cc3b876c55ae46299e40246b9eafb3d1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam Sam had 40 stickers more than Peter. Sam gave 20\\% of his stickers to Peter. In return, Peter gave 25\\% of his stickers to Sam. In the end, Sam had 96 stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "51560f6fe7b14fcdb4bd060c96dbc1a9",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "Candy can do a job in 20 days, and David can do the same job in 25 days. Now they\\textquotesingle re working together, but David takes some days off in the middle of the job. If they finish the job by the end of the $12th$~day, how many days does David take off?（⭐⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "aaaca6fa5ad944f5b9d50ad2726de809",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "An arrow is shot from the roof of a building 30 meters high at 5 m/s and at an angle of 45 degrees. How fast will the arrow be going when it hits the ground?             ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Directions and Coordinates"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f4b67240ff2e4eea856a54877b0f510d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $13$ oranges to $3$ kids, to make sure each of them gets at least one orange? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "938d2bcb3f644872a707547c2058d4a7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a class,~$\\tfrac{1}{4}$~of the students and an additional $$3$$ boys like badminton.~$\\tfrac{1}{3}$~of the remaining students in the class less $$3$$ like table tennis and the rest of the $$25$$ students in the class like football. How many students are there in the class? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6657a223a619480aabc4ab2e4d50e627",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Sam Sam had 40 stickers more than Peter. Sam gave 20\\% of his stickers to Peter. In return, Peter gave 25\\% of his stickers to Sam. In the end, Sam had 96 stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "09b093e35e3d45d0b688e30cc6a0ba76",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A rich man bought a house two years ago.  The houseing market is buoyant, and after a year the house had increased in value by 10\\%, so the value was £11,000 in the last year. In this year, the housing market slumps. The house loses 10\\% of its value.  Comparing with the original price, calculate the amount of profit or loss in this year. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "12bef96eae3c41e78b2c7c959b7cb247",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "If 5\\textsuperscript{th~}May is Monday. How many Sundays are there between 5\\textsuperscript{th} May and 7\\textsuperscript{th} June? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Periodic Problems->Periodic Problems of Time->Period of Dates"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f4fc1897652e40b78918728180071644",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "If 4 construction companies can build a $$900\\rm m$$ expressway in $$5$$ days, how many days will 6 construction companies take to build a $$5400\\rm m$$ expressway? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Work Word Problems->Simple Work Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a77bd217c8b244528cdb996bbf73a46b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A packet of cookies can contain $$7$$ cookies. How many packets are needed to contain $$118$$ cookies? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "32cc18556b6c45a9b298776fc2cefc3a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Woody organised a quiz night in the toy room He asked $25$ questions.  For each correct answer you gained $4$ points.  For each incorrect answer you lost $2$ points.  For each question you did not attempt you scored $0$ points.  Rex answered all bur one of the questions and got a score of $66$ points.  How many correct answers did he have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Hypothesis->Deducting Marks"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cecb4b4d838e4a73937b529a2db06ceb",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A box could contain $$9$$ cookies. There were $$148$$ cookies. How many boxes were needed? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6ca3b864aba0479d81b5e2d80e516196",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A rich man bought a house two years ago.  The housing market is buoyant, and after a year the house had increased in value by 10\\%, so the value was £110,000 in the last year. In this year, the housing market slumps. The house loses 10\\% of its value.  Comparing with the original price, calculate the amount of profit or loss in this year. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "21dff506ecab4714a6d9d8ea21b7f020",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Expand and solve the equation:~$5\\left( 6c-1\\right)=-35$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Negative Numbers",
+            "Overseas Competition->Knowledge Point->Calculation Modules->Basic Concepts of Equation->Linear Equations with one Variable->Equations with Whole Number Coefficient"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "750dbb830f534f51927d1d1d3c9f04f8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Hanson spent~$\\tfrac{1}{4}$~of his money and an additional $$$3$$ on a number of CDs. He then spent~$\\tfrac{3}{5}$~of the remaining money and an additional $$$6$$ on a number of batteries. Given that he was left with $$$24$$, how much money did Hanson have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "976b95e20676470a955c0924996ff02d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$4$$ individuals pass the ball to each other and they pass it to others immediately when they catch the ball, starting from $$A$$ as the first pass, the number of different methods that after $$3$$ passes the ball returns to $$A$$ is~\\uline{~~~~~~~~~~}~. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "699943037ddb46d287bd76abad9b6da4",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "（AMC 2018 Question \\#27）  A teacher wants her students to guess the three-digit number that she is thinking. She gives these clues:  \\textbf{• It is divisible by both 3 and 11.}  \\textbf{• If you subtract one, the result is divisible by both 2 and 7.}  Which number is it? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Inverse Operation Problems->Inverse Operation Problems with Multiple Variables"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ea7852a3c82f44b998bc40a543ec62cd",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Jeremy had a total of $$57$$ $$$5$$ notes and $$$10$$ notes. After he spent $$60$$\\% of the $$$10$$ notes and $$25$$\\% of the $$$5$$ notes on a bag, he was left with twice as many $$$10$$ notes as $$$5$$ notes. How much did the bag cost? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a7318cfeb5c6465bbe4c97e1828d60ef",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Hanson spent~$\\tfrac{1}{4}$~of his money and an additional $$$3$$ on a number of CDs. He then spent~$\\tfrac{3}{5}$~of the remaining money and an additional $$$6$$ on a number of batteries. Given that he was left with $$$24$$, how much money did Hanson have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8fc6e7b3c33b401c8a75af3f7886a7a5",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "I am a lovely cat. When I multiply the digits of a whole number and the product I get is 8, I put that whole number on my list of favorite numbers. Of the whole numbers from 1000 to 9999, how many would I put on my list of favorite numbers? ~（⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5be13676699942f49a395268e1f5d8e8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are three inlet pipes $A$, $B$, and $C$ in a pool. If only $A$ and $C$ are turned on, the pool can be filled from full and $18$ tons of water are from $A$. If only $B$ and $C$ are turned on, the pool can be filled from full and $27$ tons of water are from $B$. Given the flow rate of $B$ is twice that of $A$, how many tons of water can the pool be filled up with? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Work Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4fbbbe33f9d643a79e9eec4d1694212f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Woody organised a quiz night in the toy room. He asked $25$ questions.  For each correct answer you gained $4$ points.  For each incorrect answer you lost $2$ points.  For each question you did not attempt you scored $0$ points.  Rex answered all but one of the questions and got a score of $66$ points.  How many correct answers did he have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Hypothesis->Deducting Marks"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "08e324d694994846a1553d5b65da495f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The digits of Alberta\\textquotesingle s age are interchanged and $1$ is added. The answer is half of Alberta\\textquotesingle s present age. How old is Alberta? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Applying the Principle of Place Value->Questions Involving Applying Place Value Principle"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "99d84eff6ac64f09ab3bcfb4983bcdfc",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Let $$S\\left( n \\right)$$ denotes the sum of the digits of $$n$$ for all positive integers $$n$$.  Find the minimum value of $$m$$ if $$S\\left( m \\right)=5S\\left( m+1 \\right)$$. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "5b740c87653c43258c0586d8f12663d4",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A natural number $N$ is less than $$200$$. If $N$ is written in base $$4$$, the sum of the digits is equal to $$5$$. If $N$ is written in base $$6$$, the sum of the digits is equal to $$8$$. If $N$ is written in base $$8$$, the sum of the digits is equal to $$9$$. What is/are the possible value(s) of $N$ it it is written in base $$10$$?  Answer:~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Equation Word Problems->Multivariate Linear Equation Word Problems->Solving Problems by Solving System of \nBinary Linear Equations with Integer Coefficients "
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "03ff8fd61a1e4e12875cd66e409c1908",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "On Brian\\textquotesingle s $14$th birthday, Brian\\textquotesingle s father was $41$. Brian noticed that his age was the reverse of his father\\textquotesingle s age. How old will Brian be the next time his age is the reverse of his father\\textquotesingle s age? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Age Problems->Basic Relationships in Age Problems->Difference of Ages",
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Applying the Principle of Place Value->Questions Involving Applying Place Value Principle"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8246bb5345f84017abee88e67f605f55",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The sum of the digits of a $$3$$-digit odd number is $$11$$. How many different possible numbers are there? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Equation Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8485b1846a4246249bff0e15b2a80830",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A group of children visited the Botanic Gardens one morning. The number of boys was $50 \\%$ more than the number of girls. Later in the afternoon, $$12$$ boys and $$12$$ girls joined the group. The ratio of the number of boys to girls became $$19 : 14$$. Find the total number of children in the Botanic Gardens that afternoon.~\\uline{~~~~~~~~~~}~     Ollie\\textquotesingle s workings:  \\uline{Before (morning)}  Boys $:$ Girls $:$ Difference  $2:1:1$  $10:5:5$  \\uline{After (afternoon)}  Boys $:$ Girls $:$ Difference  $19:14:5$  The boys and girls increased by $9u$ each.  $9u=12$  Total $=19u+14u=33u=\\frac{12}{9}\\times33=44$  There were $44$ children.     Observe Ollie\\textquotesingle s workings above and try to spot a mistake, if any. Write down your workings and solve the question. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "a295b79b82d040ba90888d02ac50c7b7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A year is called a Blackjack year if the sum of its digits is 21. For example, 1983 is a Blackjack year since 1+9+8+3=21. How many Blackjack years are there between 1900 and 2000? （⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cd598ad9ace144b2bfb79abe93cbc606",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There is a total of $$125$$ blue and red balls in a bag.~$\\tfrac{2}{5}$~of the blue balls is equal to~$\\tfrac{3}{5}$~of the red balls. How many more blue balls than red balls are there in the bag? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "904f0cdae54f4d4a9375c041f3a5ebf8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$4$$ individuals pass the ball to each other and they pass it to others immediately when they catch the ball, starting from A as the first pass, the number of different methods that after $$3$$ passes the ball being back to A is~\\uline{~~~~~~~~~~}~. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "76aa21da5d384dccb38483d763fd552d",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Pip has seven digit cards from $1$ to $7$. He picks some cards to form a number as large as possible, and make sure that the number is divisible by all the digits used to form this number. Find the number. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Division without Remainders->Divisibility Rules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "bf15675f14f14212bf6c9e9d10c58225",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are $7$ students standing in a line. Student $A$ must stand between student $B$ and $C$ (but they don\\textquotesingle t need to stand next to each other). Student $D$ and $E$ want to stand together, but student $F$ and $G$ don\\textquotesingle t want to stand adjacent to each other. How many ways are there for them to stand in a line? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4fd1c9c268424dcd9c1930cdbe826408",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A motorcycle driver travels at a speed of $$20$$ miles per hour to a place $$120$$ miles away and returns back to the original departure point. If he expects to travel at an average speed of $$30$$ miles per hour, how fast should he travel when he is returning? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules",
+            "Overseas Competition->Knowledge Point->Distance Word Problems->Distance Word Problems on Straight Road"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2dafccaefb9c4371a9aa0d6a0927b08b",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $13$ oranges to $3$ kids? (Someone might not get any orange.) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b791fcccc3654f3db33c3a0ec7363553",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$David\\textquotesingle s$$ cookies were cost thrice as much as $$Jeremy\\textquotesingle s$$ cookies. $$David$$ had only $$$0.50$$ cookies while $$Jeremy$$ had~$\\tfrac{3}{5}$~as many $$$0.50$$ cookies as $$$0.10$$ cookies. There were $$60$$ fewer $$$0.10$$ cookies than $$$0.50$$ cookies. How much were $$Jeremy\\textquotesingle s$$ cookies worth? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Chicken-Rabbit Problems->Solving Chicken-Rabbit Problems by Using Hypothesis->Basic Type->Non-typical Types"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0e5f8af3ee36434c8fc6f0d54e0b0332",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A number gives a remainder of $$5$$ when divided by $$7$$, a remainder of $$6$$ when divided by $$8$$, and a remainder of $$6$$ when divided by $$10$$. If the sum of the quotients of the number dividing $$6$$, dividing $$7$$ and dividing $$8$$ is $265$, what is the number? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8e60fa08b0204229a54c896f7f2968fa",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The ratio of number of apples to number of pears in a box was $$3 : 4$$. When $$36$$ pears were replaced by $$36$$ apples, the number of apples became $1\\frac{1}{2}$ of number of pears. How many apples were there at first?~\\uline{~~~~~~~~~~}~ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "01afb46f9dd94497ab3c9968556ca7a1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are ten boxes labelled from $1$ to $10$,~ with a total of $425$ cookies in them. Box $1$ has $11$ cookies, and the number of cookies in each box increases by the same amount. What is the difference between the number of cookies in two adjacent boxes? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Practical Application of Arithmetic Progression"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f2e7d75d544640ef95f39ae11d58e429",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$\\tfrac{3}{4}$~of Chelsia\\textquotesingle s money is the same as~$\\tfrac{2}{3}$~of Benson\\textquotesingle s money. If Chelsia had $$$18$$ less than Benson, what is Chelsia and Benson\\textquotesingle s total sum of money? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "30f6b3c01a03478b9d6e70cbb8b7a3d4",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A rich man bought a house two years ago.  The houseing market is buoyant, and after a year the house had increased in value by 5\\%, so the value was £10,500 in the last year. In this year, the housing market slumps. The house loses 5\\% of its value.  Comparing with the original price, calculate the amount of profit or loss in this year. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "52bf46560c164e7bb42b6bd92f0f48a8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a magic show, after giving Leon, one of the audience, a calculator, the magician asks Leon to write his birthday and calculate according to the following steps:  ($1$) Leon inputs his month of birth.  ($2$) Multiply it by $$4$$.  ($3$) Add $$6$$ to the results.  ($4$) Multiply it by $$5$$.  ($5$) Subtract $$20$$ from the results.  ($6$) Multiply it by $$5$$.  ($7$) Add the number to his day of birth.  ($8$) Subtract $$50$$ from the results.  In the end, Leon gets $1126$. Do you know his birthday? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Strategies and Operations->Operational Problem"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b61f2c67d5474cefa523298e7944c309",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The digits of Alberta\\textquotesingle s age are interchanged and $1$ is added. The answer is half of Alberta\\textquotesingle s present age. How old is Alberta? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Place Value and Number Bases->Applying the Principle of Place Value->Questions Involving Applying Place Value Principle"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d9b27069b97d43039159301e52324136",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Student $$A$$ and Student $$B$$ both had a mathematics test. Student $$B$$ told student $$A$$ \"I scored $$50$$ points less than you in the mathematics test.\" Student A told student B \"if you gave me $$25$$ points, then my score would be $$5$$ times that of yours.\" What is the score Student $$A$$ got on the mathematics test? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Questions Involving Sum, Difference and Multiples->Problems of Difference and Multiple"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "eae7f41ff90f44e7a99eb2dc09729a1c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A ball was dropped from a height of $$270 \\text{m}$$. On each rebound, it rose to $$10 \\%$$ of the previous height. Find the total vertical distance in metres travelled by the ball before coming to rest. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Distance Word Problems",
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b13b087d91c3418cab75e734f729a72f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Rasidah had $$$48$$ less than Chai Seng. Rasidah spent~$\\tfrac{3}{5}$~of her money and Chai Seng spent~$\\tfrac{6}{7}$~of his money. In the end, Chai Seng had~$\\tfrac{1}{2}$~as much money left as Rasidah. Find the amount of money Rasidah had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2a6e8406868b4590b821325ac25f87f2",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$Andy$$ had $$84$$ fewer cookies than $$Ben$$ at first. After $$Andy$$ bought~$\\tfrac{1}{3}$~more cookies and $$Ben$$ bought~$\\tfrac{1}{5}$~more cookies. $$Aandy$$ had~$\\tfrac{1}{3}$~as many cookies as $$Ben$$ in the end. How many cookies did $$Andy$$ have in the end? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "73d5e9762ad24f7fa6f2d7569f186b42",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "Tom and $$8$$ of his friends went to Mr Tan\\textquotesingle s house to play. Mr Tan gave each of them a hat with a two-digit number on it. All $$9$$ numbers are different and the students are able to see their friends\\textquotesingle{} numbers but not their own. Mr Tan wrote a number on a slip of paper and ask the $$9$$ students: \"Those of you that knows for certain that your number \\textbf{is divisible} or \\textbf{not divisible} by this number, please raise your hands.\" $$4$$ students raised their hands. Mr Tan then asked again:\" Those of you that knows for certain that your number \\textbf{is divisible} or \\textbf{not divisible} by $24$, please raise your hands.\" $$6$$ students raised their hands. Tom raised his hands in both rounds and in addition to that, all students are smart and would not lie. What is the sum of all $$8$$ numbers that Tom saw on his friends\\textquotesingle{} hat? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Applying Addition and Subtraction->Simple Word Problems Involving Comparing and Ordering"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "15a26c7f348e44f0984ed5433abaeb4a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The year $$2013$$ has a four-digit number consisting of four consecutive digits (not necessarily in order). We call it a \"lucky year.\" How many \"lucky years\" have we experienced from $$1000$$ AD to $$2022$$ AD? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations->Combinations",
+            "Overseas Competition->Knowledge Point->Counting Modules->Questions Involving Enumeration->Dictionary Ordering"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4e5a3868c9c2434595c65034ace0b292",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Ellina has twelve blocks, two each of red ($R$), blue ($B$), yellow ($Y$), green ($G$), orange ($O$), and purple ($P$). Call an arrangement of blocks $even$ if there is an even number of blocks between each pair of blocks of the same color. For example, the arrangement  $R$ $B$ $B$ $Y$ $G$ $G$ $Y$ $R$ $O$ $P$ $P$ $O$  is even. Ellina arranges her blocks in a row in random order. The probability that her arrangement is even is $\\frac{m}{n}$ where $m$ and $n$ are relatively prime positive integers. Find $m+n$. (2022 AIME I Problem 9) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "218aeeff17964c29855e70445931229c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Question:  $\\dfrac{2}{7}$~of the audience at a play were adults.~$\\dfrac{4}{5}$~of the remaining audience were boys and the rest were girls. Given that there were $$80$$ more adults than girls, how many people were there at the play?     Adriana\\textquotesingle s workings:  Girls $=1-\\frac{4}{5}=\\frac{1}{5}$ of the remainder  $=\\frac{1}{5}\\times\\frac{2}{7}$  $=\\frac{2}{35}$  Adults $=\\frac{2}{7}$  Difference $=\\frac{2}{7}-\\frac{2}{35}=\\frac{8}{35}$ $\\to$ $80$ people  Total people $=\\frac{80}{8}\\times35=350$ people.     Now, let\\textquotesingle s look at Adriana\\textquotesingle s workings for the question. Is there any mistake? Solve the problem and show all workings. There were~\\uline{~~~~~~~~~~}~people at the play. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0b323f74ff2440bd99945e7df07c7d9e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Edward is 8 years old. His mother is 32 years old. In how many years will his mother be 3 times as old as Edward?（⭐⭐⭐⭐） ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "7fc9064a1aa5469aa93c3e1bbde4bbee",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A box of cookies cost $$$6$$. How many boxes could be bought with $$$250$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "fdb38dfc8f624402a53c64aee38c936c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Roy and Dennis shared a sum of money totaling $$$340$$. After Roy spent~$\\tfrac{2}{3}$~of his money and Dennis spent~$\\tfrac{1}{4}$~of his money, Dennis had twice as much money left as Roy. Find the amount of money Dennis had in the end. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "615a06562ee54cbf883a97926cfa289a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Marry had $\\frac{7}{5}$ as many stickers as Alexis.~Marry and Alexis each gave $20 \\%$ of their stickers to Charlotte. As a result, Charlotte\\textquotesingle s stickers increased by $80 \\%$. If Mary had $20$ stickers more than Charlotte in the end, how many stickers did Alexis have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "104e0f1c1be44d5eb09a1de0f61c9249",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A skier starts from rest at the top of a 20°~incline and skis in a straight line to the bottom of the slope, a distance d (measured along the slope) of 400 m. If the coefficient of kinetic friction between the skis and the snow is 0.2, calculate the skier\\textquotesingle s speed at the bottom of the run.                   ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Position (Slides)"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3028ecd60fde4f939707e80ce57d6888",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There were thrice as many boys as girls in a gathering. After $$12$$ boys left the gathering and another $$20$$ girls joined the gathering, there was an equal number of boys and girls that remained at the gathering in the end. Find the number of boys at the gathering at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d57fcf981d694db99854d4d2d0775618",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems->Questions involving Divisions with Remainders"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3147e744aa374d87a759f9e0a3b9f01c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Uncahnged Total + Backward Approach + Percentage Double Base}  Sam had 40 stickers more than Peter. Sam gave 20\\% of his stickers to Peter. In return, Peter gave 25\\% of his stickers to Sam. In the end, Sam had 96 stickers more than Peter. How many stickers did Peter have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d54e6eab7a2b49a8afcd367d2c88a350",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Elvin went to a shopping mall. He spent $$ $120$$ on a chair and $$40 \\%$$ of the remainder on a jacket. He had $$30 \\%$$ of his original amount of money left after shopping. How much money did he have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d53e348d27d24f5f894e4c70ba210f90",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$A$$ had some cookies. When $$A$$ divided the cookies among $$3$$ friends, she had $$1$$ cookie left. When $$A$$ divided the cookies among $$4$$ friends, she had $$3$$ cookies left. When $$A$$ divided the cookies among $$5$$ friends, she had $$4$$ cookies left. What was the least number of cookies that $$A$$ had? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f3b9f2f5f0a543b39b7bca6031d203f9",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $20$ books to $4$ kids? (Someone might not get any book.) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e8ac97a4703d48e3a8d90b8986df72d1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $30$ books to $5$ kids, to make sure each of them gets at least two books? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "caef56015c2546c787649e8de4983b71",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate:  $$200+199-198-197+196+195-194-193+192+191-190-189+\\cdots \\cdots +4+3-2-1=$$． ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Applying Addition and Subtraction"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ab627271938f40748d9acac110c92172",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Two sisters did maths and English together. The elder sister spent $$10$$ minutes more on maths than the younger sister, while the younger sister spent $$4$$ minutes more on English. It was known that the elder sister spent a total of $$88$$ minutes on her homework, while the younger sister spent $$12$$ minutes less on her maths homework than on her English homework. How many minutes did it take the younger sister to do her English homework? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Questions Involving Sum, Difference and Multiples->Problems Involving Sum and Difference"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e4dd70bfb9454c2286a8726ee86d101c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The teacher wrote the numbers $$1～13$$ on $$13$$ separate paper. She randomly picked $$9$$ of it and stick it on the forehead of $$9$$ students. The students are able to see the numbers of the other $$8$$ students but are unable to look at their own number.  Teacher: Students that know the number of different factors your number has, please put up your hand. *Two students put up their hands.*  Alice: Although I do not know my own number, but I do know that it is an odd number.  May: My number is smaller than Alice\\textquotesingle s by $$2$$ and bigger than Mark by $$1$$．  What is the product of the four numbers that were not picked? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Applying Addition and Subtraction->Simple Word Problems Involving Comparing and Ordering"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "9ed2edaef1a74aa7ab2da7a4c1e1e5ba",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Points $$P$$ and $$Q$$ are $1800$ metres apart. April and Baye started walking from $P$ to $$Q$$ at the same time. April arrived at point $Q$ first and turned to run towards $P$ at $4$ times of her original speed. She then met Baye $800\\text{m}$ from $Q$. When April arrived back at $P$, how many metres was Baye away from $$Q$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8646401fa22043b3be02e989c5192b0a",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The number of hens in the farm is 6 times that of roosters. Later, the number of roosters and hens increased by 60 each. As a result, the number of hens is 4 times that of roosters. How many chickens did the farm keep before? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "979c9332296e4b05927d9ad6ccb64f02",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a park, the ratio of number of birds to squirrels is $$8 : 5$$. One year later, the number of squirrels increased by $$20 \\%$$ and some birds flew away. Given that the total number of birds and squirrels remains the same, find the percentage of the birds that flew away.~\\uline{~~~~~~~~~~}~$ \\%$ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "630d3f51949a4ab29f59d2121794d3d7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a class gathering of $$39$$ students,~$\\tfrac{1}{4}$~of the boys is equal to~$\\tfrac{2}{5}$~of the girls. How many more boys than girls are there at the gathering? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d0dd7735401a440189d8289ae8ab1028",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Daniel and Patrick had an equal number of stickers at first. Daniel then gave away $$24$$ stickers to his friend Melvin, and Patrick bought another $$10$$ stickers. In the end, Patrick had twice as many stickers as Daniel. Find the number of stickers Daniel had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "e069b4976d444e998bace1344680903f",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are three inlet pipes $A$, $B$, and $C$ in a pool. If only $A$ and $C$ are turned on, the pool can be filled from empty and $18$ tons of water are from $A$. If only $B$ and $C$ are turned on, the pool can be filled from empty and $27$ tons of water are from $B$. Given the flow rate of $B$ is twice that of $A$, how many tons of water can the pool be filled up with? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Work Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "ba1ea0471abe4147b19a80a73dee7d82",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Cindy had a total of $$55$$ pieces of $$$2$$ and $$$5$$ notes at first. She spent~$\\tfrac{1}{3}$~of the number of $$$2$$ notes and received another $$8$$ pieces of $$$5$$ notes from her father. After that, the number of $$$5$$ notes she had was~$\\tfrac{3}{7}$ of the remaining number of notes. How much money did Cindy have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Word Problems in Economics->Complex Money Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "144a37458618498d8c19e53cf5ec0049",
+        "difficulty": "4",
+        "qtype": "short_answer",
+        "problem": "（AMC 2016 Question \\#30）  Today my three cousins multiplied their ages together and it came to 2016. This day last year their ages multiplied to 1377.  When they multiplied their ages together 2 years ago today, what was their answer? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f8b94a6a82c7406a83b47ec788b92ca2",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "（AMC 2020 Question \\#27）  On my chicken farm where I have 24 pens, the pens were a bit crowded. So I built 6 more pens, and the number of chickens in each pen reduced by 6. How many chickens do I have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0877713fe19e4645ba3e7db233f47117",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "65\\%~ ~65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "cf4b67b2b09544679e877f2476cc1898",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "The year $$2013$$ has a four-digit number consisting of four consecutive digits (not necessarily in order). We call it a \"lucky year.\" How many \"lucky years\" have we experienced from $$1000$$ AD to $$2022$$ AD? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations->Combinations",
+            "Overseas Competition->Knowledge Point->Counting Modules->Questions Involving Enumeration->Dictionary Ordering"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3ba3be708b874b10bc32437342966dfb",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways are there to divide $20$ pens to $6$ kids, to make sure each of them gets at least one pen? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "37ba30f7b64a46d380cae5ff5558dd59",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Repeated Identity + Fraction as a set}  Sally had some cupcakes. She had 72 more chocolate cupcakes than vanilla cupcakes. She had 36 lesser blueberry cupcakes than vanilla cupcakes. After selling $\\dfrac{1}{6}$~of the chocolate cupcakes, $\\dfrac{2}{3}$~of the vanilla cupcakes and $\\dfrac{7}{9}$~of the blueberry cupcakes. Sally had 427 cupcakes left altogether. How many chocolate cupcakes did Sally sell? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "4bbb81d1111b4e3cbec6b7862f30f6d7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Percentage Double Base}  Marry and Alexis had some stickers in the ratio 7 : 5. Marry and Alexis each gave 20\\% of their stickers to Charlotte. As a result, Charlotte\\textquotesingle s stickers increased by 80\\%. If Mary had 20 stickers more than Charlotte in the end, how many stickers did Alexis have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f93efda9bc144ea8ad3f28fa5d961c5e",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There are $6$ people sitting around an eight-seater circular table. How many different orders are there for them to sit? (If we can get the same order after rotating the table, then we regard the two orders as the same one.) ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "efb9468b904144138bdc171c8b89d9b7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "There were a total of $$140$$ green and blue balls in a bag. After~$\\tfrac{2}{5}$~of the blue balls and $$28$$ green balls were removed from the bag, there was an equal number of green and blue balls left in the bag. How many blue balls were there in the bag at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "19d5b1dcfa2c4b1bb5d7e097116869d5",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Mrs Lee had a total of $$125$$ oranges and apples. She sold half of the apples and $$35$$ oranges. In the end, she had an equal number of oranges and apples left. Find the number of oranges Mrs Lee had at first. ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "0f27bf9162ed4fbba2f119e08ed1cf48",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$\\tfrac{3}{4}$~of Chelsia\\textquotesingle s money is equal to~$\\tfrac{5}{6}$~of Brian\\textquotesingle s money. If Chelsia has $$ $24$$ more than Brian, how much money do Chelsia and Brian have altogether?     Spot the mistake in my workings and write the correct solution:  $\\frac{3}{4}$ of Chelsia $=$ $\\frac{5}{6}$ of Brian  $\\frac{9}{12}$ of Chelsia $=$ $\\frac{10}{12}$ of Brian  $10u - 9u = 1u$  $1u =  $24$  $12u + 12u = 24u$  $24u = 24\\times $24 =  $576$ ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6e22fcfa859a4c8fbb3d505818fcf090",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$A$$ has fewer than $$90$$ cookies. If $$A$$ puts $$6$$ cookies into each box, she will have $$4$$ cookies left. If $$A$$ puts $$7$$ cookies into each box, she will be short of $$5$$ cookies. How many cookies does $$A$$ have? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "f7fe017b34bc4119bfc266aeef3024e6",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "65\\%~ ~65\\% of the animals in a farm were cows and the rest were goats. When 240 more cows and goats were added to the farm, the percentage of cows increased by 20\\% and the number of goats doubled. How many goats were there in the farm at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2b33ed6a37234a7f8cfa9077a2c039ba",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$James$$ sold $$1680$$ cookies from a box of cookies in the first month and kept the rest of the cookies. $$James$$ sold~$\\tfrac{7}{20}$~more cookies from another similar box of cookies in the second month and kept the rest of the cookies. If the number of cookies $$James$$ kept decreased by~$\\tfrac{3}{20}$, how many cookies were there in the box? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Prime Factorization->Applying Prime Factorization->Equalizing products by Grouping"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "17a4a261e09e46b188ed0705441570df",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "In a number sequence, the first integer is $$3$$, the second is $$10$$, and starting from the third integer, each integer is the sum of the two integers directly in front of it. What is the remainder when the $$1997^{\\text{th}}$$ integer is divided by $$3$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems->Questions involving Divisions with Remainders"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "104db66ae297441bbca8c76f5ce475ec",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Mrs Chen spent $$$36$$ on a number of plates and~$\\tfrac{3}{4}$~of the remaining money on a number of cups. If she had~$\\tfrac{1}{6}$~of the original sum of money left, how much money did she have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Remainder Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "fb2929103b234c36a83b16152d639699",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways can you place $15$ envelopes in the following 4 mailbox so that there is at least $2$ envelopes in box $A$, at least $4$ envelopes in box $B$, and at least $3$ envelopes in box $C$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8897310e705d4b0996136ec5d1345eb8",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many different ways can you place $15$ envelopes in the following 4 mailboxes so that there are at least $2$ envelopes in box $A$, at least $4$ envelopes in box $B$, and at least $3$ envelopes in box $C$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Counting Modules->Permutations and Combinations"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "8d5bc66e7f26483e93a8178a57870366",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "\\textbf{Percentage Single Base}  On the first day of an amusement park\\textquotesingle s opening, the number of male visitors was 450 more than the number of female visitors. On the second day, the number of female visitors increased by 15\\% but the number of make visitors decreased by 18\\%. The total number of visitors for the second day was 1354. How many make visitors were there on the first day? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Solving Problems Involving Fractions and Percentages->Percentages Word Problems"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "19ee53ef309b4ac1b03a0754f950fa53",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A Badminton Club had thrice as many members as the Bowling Club. However, after $$36$$ members left the Badminton Club and $$4$$ members left the Bowling Club, the two clubs had the same number of members in the end. How many members did each of the clubs have in the end? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "1969baf23afa40a7baf0654943977371",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "If 17\\textsuperscript{th} October is Tuesday. How many Sundays are there between 17\\textsuperscript{th} October and 20\\textsuperscript{th} December? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Periodic Problems->Periodic Problems of Time->Period of Dates"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "d5a7ecbc1d6a47828162d5c281243895",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "A lady bought twice as many apple tarts than strawberry tarts. She spent an equal amount of money on each type of item. A strawberry tart cost $$$0.40$$ more than an apple tart. How many tarts did she buy altogether if she paid a total of $$$40$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "6c4a0c8fddc0483ca389ad988e693de1",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Melvin, Nelson and Oliver were playing cards.  At first Melvin started with $$40$$ cards and then he gained $$\\frac{5}{8}$$ more than his original number of cards from Nelson.  In the next round, Melvin and Nelson each lost $$\\frac{1}{4}$$ of Melvin\\textquotesingle s original number of cards to Oliver.  In the final round, Melvin gained $$\\frac{1}{8}$$ of his original number of cards from Nelson. After the final round, Melvin, Nelson and Oliver all have the same number of cards. What was the total number of cards Melvin, Nelson and Oliver had at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Word Problem Modules->Inverse Operation Problems->Inverse Operation Problems with Single Variable"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "b4a6a6d3563d489c96fe7593170152df",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Warren and Naida make a list of numbers. They start with 0, then Warren adds 20, then Naida subtracts 1, then Warren adds 19, then Naida subtracts 2.  $0,20,19,38,36,\\cdots$  This pattern continues until Warren adds 1 and Naida subtracts 20, which ends up back at 0. What is the largest number in their list? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "3378ca3dc79a44d9b8d60a873b97d5c7",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "Calculate: $$\\dfrac{\\dfrac{1}{1\\times 2}+\\dfrac{1}{3\\times 4}+\\dfrac{1}{5\\times 6}+\\cdots +\\dfrac{1}{19\\times 20}}{\\dfrac{1}{11\\times 20}+\\dfrac{1}{12\\times 19}+\\dfrac{1}{13\\times 18}+\\cdots +\\dfrac{1}{15\\times 16}}=$$~\\uline{~~~~~~~~~~}~． ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Calculation Modules->Splitting Terms and Finding the General Term->Splitting Terms of Fractions"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "98fccede682543abb0a7e6ce6c0a6e69",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "How many of the natural numbers from $$1$$ to $$2016$$ are perfect squares after multiplied by $$72$$? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Number Theory Modules->Perfect Square Numbers"
+        ]
+    },
+    {
+        "dataset_version": "2023-07-07",
+        "queId": "2b306992899a447c8bce44df9392630c",
+        "difficulty": "3",
+        "qtype": "short_answer",
+        "problem": "$$John$$ had $$180$$ more cookies than $$Peter$$. After $$John$$ sold~$\\tfrac{4}{5}$~of her cookies and $$Peter$$ sold~$\\tfrac{3}{10}$~of her cookies, $$John$$ had~$\\tfrac{1}{2}$~as many cookies as $$Peter$$ left. How many cookies did $$John$$ have at first? ",
+        "knowledge_point_routes": [
+            "Overseas Competition->Knowledge Point->Combinatorics->Patterns of Figures->Change of Quantity"
+        ]
+    }
+]

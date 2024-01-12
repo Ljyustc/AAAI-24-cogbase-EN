@@ -1,0 +1,5 @@
+func_timeout==4.3.5
+Requests==2.31.0
+selenium==4.16.0
+tqdm==4.66.1
+undetected_chromedriver==3.5.4
